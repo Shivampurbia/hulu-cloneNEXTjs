@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hulu clone
+
+Get a preview at:
+* https://hulu-clone-sp.vercel.app/
+
+![alt text](blob:https://vercel.com/7a6c21ac-a899-49ba-a801-aa315f7b8861)
+
+## API
+
+* https://www.themoviedb.org/
 
 ## Getting Started
 
@@ -32,3 +41,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# hulu-clone-2.0
