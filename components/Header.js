@@ -20,7 +20,7 @@ function Header() {
           <HeaderItem title="TRENDING" Icon={LightningBoltIcon}></HeaderItem>
           <HeaderItem title="COLLECTION" Icon={CollectionIcon}></HeaderItem>
       </div>
-      <Image className='object-contain' src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png'  width={150}
+      <Image alt="HULUlogo" className='object-contain' src='https://suplari.com/wp-content/uploads/2019/09/hulu-logo-white.png'  width={150}
     height={120}>
         
       </Image>
