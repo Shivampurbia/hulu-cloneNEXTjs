@@ -11,7 +11,7 @@ Get a preview at:
 
 ## Getting Started
 Run npm install and then,
-First, run the development server:
+run the development server:
 
 ```bash
 npm install
