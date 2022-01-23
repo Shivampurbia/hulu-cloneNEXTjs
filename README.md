@@ -10,7 +10,7 @@ Get a preview at:
 * https://www.themoviedb.org/
 
 ## Getting Started
-
+Run npm install and then,
 First, run the development server:
 
 ```bash
