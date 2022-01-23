@@ -3,7 +3,7 @@
 Get a preview at:
 * https://hulu-clone-sp.vercel.app/
 
-![alt text](blob:https://vercel.com/7a6c21ac-a899-49ba-a801-aa315f7b8861)
+![alt text](blob:https://vercel.com/7a6c21ac-a899-49ba-a801-aa315f7b8861.jpg)
 
 ## API
 
