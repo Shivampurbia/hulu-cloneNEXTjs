@@ -13,6 +13,7 @@ function Thumbnail({result},ref){
   
   return <div ref={ref} className='group p-3 transition duration-200 ease-in transform sm:hover:scale-105 hover:z-60'>
       <Image
+        style={{borderRadius:"1rem"}}
         alt="poster"
         src={
             `${BASE_URL}${result.backdrop_path || result.poster_path}` ||
